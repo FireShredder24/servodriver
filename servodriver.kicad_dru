@@ -1,0 +1,7 @@
+(version 1)
+(rule dkred
+	(constraint clearance (min 5mil))
+	(constraint track_width (min 5mil))
+	(constraint hole_size (min 8mil))
+	(constraint via_diameter (min 16mil))
+)
